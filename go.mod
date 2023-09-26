@@ -1,6 +1,6 @@
 module github.com/fako1024/goProbe-contrib
 
-go 1.21.1
+go 1.21
 
 require (
 	github.com/fako1024/effuncert v1.0.4 // indirect
